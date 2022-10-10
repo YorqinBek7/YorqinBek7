@@ -1,23 +1,25 @@
-### Hi there 👋, YorqinBek
-#### I am Flutter Mobile Developer
-![I am Flutter Mobile Developer](https://www.canva.com/design/DAFFemMpebw/fbf6V5oqfIlQw9G7gVLlvg/edit?utm_content=DAFFemMpebw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+<h1 align="center">Hi 👋, I'm YorqinBek</h1>
+<h3 align="center">I'm Flutter Mobile Developer from Uzbekistan</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yorqinbek7&label=Profile%20views&color=0e75b6&style=flat" alt="yorqinbek7" /> </p>
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- 🔭 I’m currently working on [Fitness App](https://github.com/YorqinBek7/fitness)
 
-- 🔭 I’m currently working on Fitness app 
-- 🌱 I’m currently learning Cubit, Bloc 
-- 👯 I’m looking to collaborate on Ish Top app 
-- 📫 How to reach me: https://t.me/YorqinBek_Yuldashev 
+- 🌱 I’m currently learning **Cubit, Bloc**
 
+- 👯 I’m looking to collaborate on [Ish top](https://github.com/Abdusamad98/ish_top)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YorqinBek7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/YorqinBekYuldashev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yorqinbek.yuldashev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Yorqinbek Yuldashev)  
+- 👨‍💻 All of my projects are available at [https://github.com/YorqinBek7?tab=repositories](https://github.com/YorqinBek7?tab=repositories)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **yorqinbekyuldashev33@gmail.com**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YorqinBek7&show_icons=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yorqinbekyuldashev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yorqinbekyuldashev" height="30" width="40" /></a>
+<a href="https://instagram.com/yorqinbek.yuldashev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yorqinbek.yuldashev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/yorqinbek yuldashev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yorqinbek yuldashev" height="30" width="40" /></a>
+</p>
 
-![Profile views](https://gpvc.arturio.dev/YorqinBek7)  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
