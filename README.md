@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Cubit, Bloc**
 
-- 👯 I’m looking to collaborate on [Ish top](https://github.com/Abdusamad98/ish_top)
-
 - 👨‍💻 All of my projects are available at [https://github.com/YorqinBek7?tab=repositories](https://github.com/YorqinBek7?tab=repositories)
 
 - 📫 How to reach me **yorqinbekyuldashev33@gmail.com**
