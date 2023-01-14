@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Fitness App](https://github.com/YorqinBek7/fitness)
 
-- 🌱 I’m currently learning **Cubit, Bloc**
+- 🌱 I’m currently learning **Getx, Bloc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YorqinBek7?tab=repositories](https://github.com/YorqinBek7?tab=repositories)
 
