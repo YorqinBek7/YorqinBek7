@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yorqinbek7&label=Profile%20views&color=0e75b6&style=flat" alt="yorqinbek7" /> </p>
 
-- 🔭 I’m currently working on [Fitness App](https://github.com/YorqinBek7/fitness)
+- 🔭 I’m currently working on [UzChat App]
 
 - 🌱 I’m currently learning **Getx, Bloc**
 
