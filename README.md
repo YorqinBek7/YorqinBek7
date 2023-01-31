@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Getx, Bloc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YorqinBek7?tab=repositories](https://github.com/YorqinBek7?tab=repositories)
+- 👨‍💻 All of my projects are available at [Telegram channel](https://t.me/yorqinbekportfolio)
 
 - 📫 How to reach me **yorqinbekyuldashev33@gmail.com**
 
