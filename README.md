@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yorqinbek7&label=Profile%20views&color=0e75b6&style=flat" alt="yorqinbek7" /> </p>
 
-- 🔭 I’m currently working on GRM App
+- 🔭 I’m currently working on Kelishamiz App
 
 - 👨‍💻 All of my projects are available at [Telegram channel](https://t.me/yorqinbekporftolio)
 
